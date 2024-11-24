@@ -1,0 +1,17 @@
+.odd-ball {
+    
+    background-color: #b95a6a;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+.odd-ball.cooler {
+    font-size: 24px;
+}
+#numero-dos {
+    color: blue;
+    font-size: 36px;
+}
+#numero-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
